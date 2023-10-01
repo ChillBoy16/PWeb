@@ -32,3 +32,8 @@ iframe {
     height: 100%;
     border: none;
   }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+}
